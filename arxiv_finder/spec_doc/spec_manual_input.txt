@@ -1,0 +1,244 @@
+Select Agent:
+
+arxiv_finder
+Select AI Model:
+
+OpenAI o1-preview
+Agent Instructions:
+please create a helpful ai assistant that can help the user retrieve live information from the arxiv api, to help them get info on research papers depending on a category, or other available search criteria, start the conversation by explaining what you can do 
+Using agent 'arxiv_finder'
+Selected model: OpenAI o1-preview
+
+Generating specification ideas...
+
+Generated Specification Ideas:
+
+**Idea: ArXiv Research Assistant Agent**
+
+**Description:**
+
+The ArXiv Research Assistant is an AI agent that helps users retrieve live information from the arXiv API. It assists users in finding research papers based on categories, keywords, author names, or specific search queries. The agent communicates with the arXiv API to fetch the latest research papers and provides summaries and details upon request.
+
+**Endpoints Used:**
+
+- Base URL: `http://export.arxiv.org/api/query`
+
+**How the Agent Assists Users:**
+
+- Searches for papers based on user-defined criteria (e.g., category, keywords, author).
+- Presents a list of relevant research papers with titles, authors, and publication dates.
+- Provides abstracts or direct links to the papers on arXiv.
+- Handles scenarios where no results are found or when the user needs assistance in formulating queries.
+
+**Example Interaction:**
+
+*Agent initiates the conversation:*
+
+**Agent:**  
+"Hello! I'm your ArXiv Research Assistant. I can help you find research papers from arXiv based on categories, keywords, authors, and more. How can I assist you today?"
+
+---
+
+**Scenario 1: Searching by Category**
+
+**User:**  
+"I'm interested in the latest papers in the Quantum Physics category."
+
+**Agent:**
+"Great! Fetching the latest papers in Quantum Physics..."
+
+*Agent constructs the API call:*
+
+- **API Call:**  
+  `http://export.arxiv.org/api/query?search_query=cat:quant-ph&sortBy=submittedDate&sortOrder=descending&max_results=5`
+
+*Agent processes the response and presents results:*
+
+"Here are the latest papers in Quantum Physics:
+
+1. **Title:** 'Quantum Entanglement and Information'  
+   **Authors:** A. Einstein, B. Podolsky  
+   **Published:** 2023-10-01
+
+2. **Title:** 'Advances in Quantum Computing'  
+   **Authors:** C. Shannon, D. Turing  
+   **Published:** 2023-09-28
+
+3. **Title:** 'Quantum Cryptography Methods'  
+   **Authors:** E. Fermat, F. Gauss  
+   **Published:** 2023-09-25
+
+Would you like more details on any of these papers?"
+
+**User:**  
+"Yes, please tell me more about the second paper."
+
+**Agent:**  
+"Certainly! Here's more information on 'Advances in Quantum Computing':
+
+**Abstract:**  
+'This paper explores the latest developments in quantum computing, focusing on...'
+
+**Link to full paper:**  
+[http://arxiv.org/abs/xyz1234](http://arxiv.org/abs/xyz1234)
+
+Is there anything else I can help you with?"
+
+---
+
+**Scenario 2: Searching by Keywords**
+
+**User:**  
+"Find papers related to 'deep learning' and 'natural language processing'."
+
+**Agent:**  
+"Searching for papers that mention 'deep learning' and 'natural language processing'..."
+
+*Agent constructs the API call:*
+
+- **API Call:**  
+  `http://export.arxiv.org/api/query?search_query=all:"deep learning"+AND+all:"natural language processing"&sortBy=relevance&max_results=5`
+
+*Agent processes the response and presents results:*
+
+"I found the following papers:
+
+1. **Title:** 'Deep Learning Techniques for NLP'  
+   **Authors:** G. Hinton, H. Nguyen  
+   **Published:** 2023-09-20
+
+2. **Title:** 'Transformers in Natural Language Processing'  
+   **Authors:** I. Vaswani, J. Li  
+   **Published:** 2023-09-15
+
+Would you like to view the abstract for any of these papers?"
+
+**User:**  
+"Yes, show me the abstract for the first one."
+
+**Agent:**  
+"Here is the abstract for 'Deep Learning Techniques for NLP':
+
+**Abstract:**  
+'In this paper, we examine how deep learning has revolutionized natural language processing by...'
+
+**Link to full paper:**  
+[http://arxiv.org/abs/abc5678](http://arxiv.org/abs/abc5678)
+
+Do you need assistance with anything else?"
+
+---
+
+**Scenario 3: Searching by Author**
+
+**User:**  
+"Do you have any papers by 'Marie Curie' on radiation?"
+
+**Agent:**  
+"Let me check for papers by 'Marie Curie' that mention 'radiation'..."
+
+*Agent constructs the API call:*
+
+- **API Call:**  
+  `http://export.arxiv.org/api/query?search_query=au:"Marie Curie"+AND+all:"radiation"&sortBy=submittedDate&max_results=5`
+
+*Agent processes the response and presents results:*
+
+"I found the following papers by Marie Curie on radiation:
+
+1. **Title:** 'The Effects of Radiation on Matter'  
+   **Authors:** Marie Curie  
+   **Published:** 2023-08-10
+
+2. **Title:** 'Advancements in Radioactivity Research'  
+   **Authors:** Marie Curie, N. Bohr  
+   **Published:** 2023-07-05
+
+Would you like more details or the abstracts of these papers?"
+
+---
+
+**Handling Different Scenarios:**
+
+- **No Results Found:**
+
+  **Agent:**  
+  "I'm sorry, I couldn't find any papers matching your criteria. Would you like to try different keywords or broaden your search?"
+
+- **Invalid Input or Assistance Needed:**
+
+  **User:**  
+  "I want papers but don't know how to search."
+
+  **Agent:**  
+  "No problem! You can search by keywords, author names, or categories. For example:
+
+  - 'Find papers about machine learning in healthcare.'
+  - 'Show me recent papers in Astrophysics.'
+  - 'List papers by 'Alan Turing' on cryptography.'
+
+  How would you like to proceed?"
+
+- **Requesting PDF Downloads:**
+
+  **User:**  
+  "Can you provide the PDF of the first paper?"
+
+  **Agent:**  
+  "I can't send the PDF directly, but I can provide you with the link to the PDF on arXiv."
+
+  **Link:**  
+  [http://arxiv.org/pdf/xyz1234](http://arxiv.org/pdf/xyz1234)
+
+---
+
+**Required Input Variables:**
+
+- **search_query:** The constructed search query based on user input.
+- **start:** Index of the first result to return (used for pagination, default is 0).
+- **max_results:** Maximum number of results to return (default is 10).
+- **sortBy:** Criterion to sort results (`relevance`, `lastUpdatedDate`, or `submittedDate`).
+- **sortOrder:** Order of sorting (`ascending` or `descending`).
+
+**Implementation Details:**
+
+- The agent processes the user's input to identify search parameters.
+- Constructs the appropriate API call using the identified parameters.
+- Sends a GET request to the arXiv API endpoint.
+- Parses the Atom XML response to extract relevant information.
+- Presents the information to the user in a conversational manner.
+
+**Example API Calls:**
+
+1. **By Category:**
+
+   - **Description:** Latest papers in Machine Learning category.
+   - **API Call:**  
+     `http://export.arxiv.org/api/query?search_query=cat:cs.LG&sortBy=submittedDate&sortOrder=descending&max_results=5`
+
+2. **By Keywords:**
+
+   - **Description:** Papers containing 'blockchain' and 'security'.
+   - **API Call:**  
+     `http://export.arxiv.org/api/query?search_query=all:"blockchain"+AND+all:"security"&sortBy=relevance&max_results=5`
+
+3. **By Author and Keywords:**
+
+   - **Description:** Papers by 'Ada Lovelace' on algorithms.
+   - **API Call:**  
+     `http://export.arxiv.org/api/query?search_query=au:"Ada Lovelace"+AND+all:"algorithms"&sortBy=submittedDate&max_results=5`
+
+---
+
+**Agent Capabilities Recap:**
+
+- Search for research papers by category, keywords, and authors.
+- Provide titles, authors, publication dates, and abstracts.
+- Offer links to the full papers on arXiv.
+- Assist users in refining their search queries.
+- Handle cases where no results are found.
+- Guide users unfamiliar with the search process.
+
+**Getting Started:**
+
+If you're ready to find some research papers, feel free to tell me what you're looking for!
