@@ -1,0 +1,744 @@
+Title: GitHub - fawazahmed0/exchange-api: Free Currency Exchange Rates API with 200+ Currencies & No Rate Limits
+
+URL Source: https://github.com/fawazahmed0/exchange-api
+
+Markdown Content:
+GitHub - fawazahmed0/exchange-api: Free Currency Exchange Rates API with 200+ Currencies & No Rate Limits
+===============                                         
+
+[Skip to content](https://github.com/fawazahmed0/exchange-api#start-of-content)  
+
+Navigation Menu
+---------------
+
+Toggle navigation
+
+[](https://github.com/)
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Ffawazahmed0%2Fexchange-api)
+
+*   Product
+    
+    *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)
+    *   [Security Find and fix vulnerabilities](https://github.com/features/security)
+    *   [Actions Automate any workflow](https://github.com/features/actions)
+    *   [Codespaces Instant dev environments](https://github.com/features/codespaces)
+    *   [Issues Plan and track work](https://github.com/features/issues)
+    *   [Code Review Manage code changes](https://github.com/features/code-review)
+    *   [Discussions Collaborate outside of code](https://github.com/features/discussions)
+    *   [Code Search Find more, search less](https://github.com/features/code-search)
+    
+    Explore
+    
+    *   [All features](https://github.com/features)
+    *   [Documentation](https://docs.github.com/)
+    *   [GitHub Skills](https://skills.github.com/)
+    *   [Blog](https://github.blog/)
+    
+*   Solutions
+    
+    By company size
+    
+    *   [Enterprises](https://github.com/enterprise)
+    *   [Small and medium teams](https://github.com/team)
+    *   [Startups](https://github.com/enterprise/startups)
+    *   [Nonprofits](https://github.com/solutions/industry/nonprofits)
+    
+    By use case
+    
+    *   [DevSecOps](https://github.com/solutions/use-case/devsecops)
+    *   [DevOps](https://github.com/solutions/use-case/devops)
+    *   [CI/CD](https://github.com/solutions/use-case/ci-cd)
+    *   [View all use cases](https://github.com/solutions/use-case)
+    
+    By industry
+    
+    *   [Healthcare](https://github.com/solutions/industry/healthcare)
+    *   [Financial services](https://github.com/solutions/industry/financial-services)
+    *   [Manufacturing](https://github.com/solutions/industry/manufacturing)
+    *   [Government](https://github.com/solutions/industry/government)
+    *   [View all industries](https://github.com/solutions/industry)
+    
+    [View all solutions](https://github.com/solutions)
+    
+*   Resources
+    
+    Topics
+    
+    *   [AI](https://github.com/resources/articles/ai)
+    *   [DevOps](https://github.com/resources/articles/devops)
+    *   [Security](https://github.com/resources/articles/security)
+    *   [Software Development](https://github.com/resources/articles/software-development)
+    *   [View all](https://github.com/resources/articles)
+    
+    Explore
+    
+    *   [Learning Pathways](https://resources.github.com/learn/pathways)
+    *   [White papers, Ebooks, Webinars](https://resources.github.com/)
+    *   [Customer Stories](https://github.com/customer-stories)
+    *   [Partners](https://partner.github.com/)
+    *   [Executive Insights](https://github.com/solutions/executive-insights)
+    
+*   Open Source
+    
+    *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)
+    
+    *   [The ReadME Project GitHub community articles](https://github.com/readme)
+    
+    Repositories
+    
+    *   [Topics](https://github.com/topics)
+    *   [Trending](https://github.com/trending)
+    *   [Collections](https://github.com/collections)
+    
+*   Enterprise
+    
+    *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)
+    
+    Available add-ons
+    
+    *   [Advanced Security Enterprise-grade security features](https://github.com/enterprise/advanced-security)
+    *   [GitHub Copilot Enterprise-grade AI features](https://github.com/features/copilot#enterprise)
+    *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)
+    
+*   [Pricing](https://github.com/pricing)
+
+Search or jump to...
+
+Search code, repositories, users, issues, pull requests...
+==========================================================
+
+Search
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+Provide feedback
+================
+
+We read every piece of feedback, and take your input very seriously.
+
+ Include my email address so I can be contacted
+
+Cancel Submit feedback
+
+Saved searches
+==============
+
+Use saved searches to filter your results more quickly
+------------------------------------------------------
+
+Name  
+
+Query 
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).
+
+Cancel Create saved search
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Ffawazahmed0%2Fexchange-api)
+
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=fawazahmed0%2Fexchange-api) Reseting focus
+
+You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
+
+{{ message }}
+
+[fawazahmed0](https://github.com/fawazahmed0) / **[exchange-api](https://github.com/fawazahmed0/exchange-api)** Public
+
+*   [Notifications](https://github.com/login?return_to=%2Ffawazahmed0%2Fexchange-api) You must be signed in to change notification settings
+*   [Fork 58](https://github.com/login?return_to=%2Ffawazahmed0%2Fexchange-api)
+*   [Star 908](https://github.com/login?return_to=%2Ffawazahmed0%2Fexchange-api)
+    
+
+Free Currency Exchange Rates API with 200+ Currencies & No Rate Limits
+
+[github.com/fawazahmed0/exchange-api#readme](https://github.com/fawazahmed0/exchange-api#readme "https://github.com/fawazahmed0/exchange-api#readme")
+
+### License
+
+[CC0-1.0 license](https://github.com/fawazahmed0/exchange-api/blob/main/LICENSE)
+
+[908 stars](https://github.com/fawazahmed0/exchange-api/stargazers) [58 forks](https://github.com/fawazahmed0/exchange-api/forks) [Branches](https://github.com/fawazahmed0/exchange-api/branches) [Tags](https://github.com/fawazahmed0/exchange-api/tags) [Activity](https://github.com/fawazahmed0/exchange-api/activity)
+
+[Star](https://github.com/login?return_to=%2Ffawazahmed0%2Fexchange-api)
+
+[Notifications](https://github.com/login?return_to=%2Ffawazahmed0%2Fexchange-api) You must be signed in to change notification settings
+
+*   [Code](https://github.com/fawazahmed0/exchange-api)
+*   [Issues 26](https://github.com/fawazahmed0/exchange-api/issues)
+*   [Pull requests 0](https://github.com/fawazahmed0/exchange-api/pulls)
+*   [Actions](https://github.com/fawazahmed0/exchange-api/actions)
+*   [Projects 0](https://github.com/fawazahmed0/exchange-api/projects)
+*   [Security](https://github.com/fawazahmed0/exchange-api/security)
+*   [Insights](https://github.com/fawazahmed0/exchange-api/pulse)
+
+Additional navigation options
+
+*   [Code](https://github.com/fawazahmed0/exchange-api)
+*   [Issues](https://github.com/fawazahmed0/exchange-api/issues)
+*   [Pull requests](https://github.com/fawazahmed0/exchange-api/pulls)
+*   [Actions](https://github.com/fawazahmed0/exchange-api/actions)
+*   [Projects](https://github.com/fawazahmed0/exchange-api/projects)
+*   [Security](https://github.com/fawazahmed0/exchange-api/security)
+*   [Insights](https://github.com/fawazahmed0/exchange-api/pulse)
+
+fawazahmed0/exchange-api
+========================
+
+  
+
+ main
+
+[Branches](https://github.com/fawazahmed0/exchange-api/branches)[Tags](https://github.com/fawazahmed0/exchange-api/tags)
+
+[](https://github.com/fawazahmed0/exchange-api/branches)[](https://github.com/fawazahmed0/exchange-api/tags)
+
+Go to file
+
+Code
+
+Folders and files
+-----------------
+
+| Name | Name | 
+Last commit message
+
+ | 
+
+Last commit date
+
+ |
+| --- | --- | --- | --- |
+| 
+
+Latest commit
+-------------
+
+History
+-------
+
+[83 Commits](https://github.com/fawazahmed0/exchange-api/commits/main/)
+
+[](https://github.com/fawazahmed0/exchange-api/commits/main/)
+
+
+
+
+
+
+
+ |
+| 
+
+[.github/workflows](https://github.com/fawazahmed0/exchange-api/tree/main/.github/workflows "This path skips through empty directories")
+
+
+
+
+
+
+
+ | 
+
+[.github/workflows](https://github.com/fawazahmed0/exchange-api/tree/main/.github/workflows "This path skips through empty directories")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[other](https://github.com/fawazahmed0/exchange-api/tree/main/other "other")
+
+
+
+
+
+
+
+ | 
+
+[other](https://github.com/fawazahmed0/exchange-api/tree/main/other "other")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[.gitignore](https://github.com/fawazahmed0/exchange-api/blob/main/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+[.gitignore](https://github.com/fawazahmed0/exchange-api/blob/main/.gitignore ".gitignore")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[LICENSE](https://github.com/fawazahmed0/exchange-api/blob/main/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+[LICENSE](https://github.com/fawazahmed0/exchange-api/blob/main/LICENSE "LICENSE")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[MIGRATION.md](https://github.com/fawazahmed0/exchange-api/blob/main/MIGRATION.md "MIGRATION.md")
+
+
+
+
+
+
+
+ | 
+
+[MIGRATION.md](https://github.com/fawazahmed0/exchange-api/blob/main/MIGRATION.md "MIGRATION.md")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[README.md](https://github.com/fawazahmed0/exchange-api/blob/main/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+[README.md](https://github.com/fawazahmed0/exchange-api/blob/main/README.md "README.md")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[allcurrencies.min.json](https://github.com/fawazahmed0/exchange-api/blob/main/allcurrencies.min.json "allcurrencies.min.json")
+
+
+
+
+
+
+
+ | 
+
+[allcurrencies.min.json](https://github.com/fawazahmed0/exchange-api/blob/main/allcurrencies.min.json "allcurrencies.min.json")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[country.json](https://github.com/fawazahmed0/exchange-api/blob/main/country.json "country.json")
+
+
+
+
+
+
+
+ | 
+
+[country.json](https://github.com/fawazahmed0/exchange-api/blob/main/country.json "country.json")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[currscript.js](https://github.com/fawazahmed0/exchange-api/blob/main/currscript.js "currscript.js")
+
+
+
+
+
+
+
+ | 
+
+[currscript.js](https://github.com/fawazahmed0/exchange-api/blob/main/currscript.js "currscript.js")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[money.jpg](https://github.com/fawazahmed0/exchange-api/blob/main/money.jpg "money.jpg")
+
+
+
+
+
+
+
+ | 
+
+[money.jpg](https://github.com/fawazahmed0/exchange-api/blob/main/money.jpg "money.jpg")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[package-lock.json](https://github.com/fawazahmed0/exchange-api/blob/main/package-lock.json "package-lock.json")
+
+
+
+
+
+
+
+ | 
+
+[package-lock.json](https://github.com/fawazahmed0/exchange-api/blob/main/package-lock.json "package-lock.json")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[package.json](https://github.com/fawazahmed0/exchange-api/blob/main/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+[package.json](https://github.com/fawazahmed0/exchange-api/blob/main/package.json "package.json")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[semver-date.js](https://github.com/fawazahmed0/exchange-api/blob/main/semver-date.js "semver-date.js")
+
+
+
+
+
+
+
+ | 
+
+[semver-date.js](https://github.com/fawazahmed0/exchange-api/blob/main/semver-date.js "semver-date.js")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+[skeleton-package.json](https://github.com/fawazahmed0/exchange-api/blob/main/skeleton-package.json "skeleton-package.json")
+
+
+
+
+
+
+
+ | 
+
+[skeleton-package.json](https://github.com/fawazahmed0/exchange-api/blob/main/skeleton-package.json "skeleton-package.json")
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+ |
+| 
+
+View all files
+
+ |
+
+Repository files navigation
+---------------------------
+
+*   [README](https://github.com/fawazahmed0/exchange-api#)
+*   [CC0-1.0 license](https://github.com/fawazahmed0/exchange-api#)
+
+Free Currency Exchange Rates API
+================================
+
+[](https://github.com/fawazahmed0/exchange-api#free-currency-exchange-rates-api)
+
+[![Image 5](https://github.com/fawazahmed0/exchange-api/raw/main/money.jpg)](https://github.com/fawazahmed0/exchange-api/raw/main/money.jpg)
+
+[![Image 6: Publish-Currencies](https://github.com/fawazahmed0/exchange-api/actions/workflows/run.yml/badge.svg)](https://github.com/fawazahmed0/exchange-api/actions/workflows/run.yml)
+
+#### Features:
+
+[](https://github.com/fawazahmed0/exchange-api#features)
+
+*   Free & Blazing Fast response
+*   No Rate limits
+*   200+ Currencies, Including Common Cryptocurrencies & Metals
+*   Daily Updated
+
+#### URL Structure:
+
+[](https://github.com/fawazahmed0/exchange-api#url-structure)
+
+`https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@{date}/{apiVersion}/{endpoint}`
+
+#### Formats:
+
+[](https://github.com/fawazahmed0/exchange-api#formats)
+
+`date`
+
+The date should either be `latest` or in `YYYY-MM-DD` format
+
+The Endpoints Supports HTTP GET Method and returns the data in two formats:
+
+`/{endpoint}.json`
+
+`/{endpoint}.min.json`
+
+#### Endpoints:
+
+[](https://github.com/fawazahmed0/exchange-api#endpoints)
+
+*   `/currencies`  
+    
+
+> Lists all the available currencies in prettified json format:  
+> [https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies.json](https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies.json)
+
+> Get a minified version of it:  
+> [https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies.min.json](https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies.min.json)
+
+*   `/currencies/{currencyCode}`  
+    
+
+> Get the currency list with EUR as base currency:  
+> [https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/eur.json](https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/eur.json)
+
+> Get the currency list with EUR as base currency on date 2024-03-06:  
+> [https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2024-03-06/v1/currencies/eur.json](https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2024-03-06/v1/currencies/eur.json)
+
+> Get the currency list with BTC as base currency:  
+> [https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/btc.json](https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/btc.json)
+
+> Get the currency list with BTC as base currency in minified format:  
+> [https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/btc.min.json](https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/btc.min.json)
+
+#### Additional Fallback URL on Cloudflare:
+
+[](https://github.com/fawazahmed0/exchange-api#additional-fallback-url-on-cloudflare)
+
+`https://{date}.currency-api.pages.dev/{apiVersion}/{endpoint}`
+
+> Get the currency list with EUR as base currency:  
+> [https://latest.currency-api.pages.dev/v1/currencies/eur.json](https://latest.currency-api.pages.dev/v1/currencies/eur.json)
+
+> Get the currency list with EUR as base currency on date 2024-03-06:  
+> [https://2024-03-06.currency-api.pages.dev/v1/currencies/eur.json](https://2024-03-06.currency-api.pages.dev/v1/currencies/eur.json)
+
+**Warning:** Please include [Fallback mechanism](https://github.com/fawazahmed0/exchange-api/issues/90#issue-2168885277) in your code, for example if `cdn.jsdelivr.net` link fails, fetch from `currency-api.pages.dev`
+
+**Migrating from Previous Currency API:** [Read this](https://github.com/fawazahmed0/exchange-api/blob/main/MIGRATION.md)
+
+About
+-----
+
+Free Currency Exchange Rates API with 200+ Currencies & No Rate Limits
+
+[github.com/fawazahmed0/exchange-api#readme](https://github.com/fawazahmed0/exchange-api#readme "https://github.com/fawazahmed0/exchange-api#readme")
+
+### Topics
+
+[bitcoin](https://github.com/topics/bitcoin "Topic: bitcoin") [currency](https://github.com/topics/currency "Topic: currency") [forex](https://github.com/topics/forex "Topic: forex") [cryptocurrency](https://github.com/topics/cryptocurrency "Topic: cryptocurrency") [currency-exchange-rates](https://github.com/topics/currency-exchange-rates "Topic: currency-exchange-rates") [currency-conversion](https://github.com/topics/currency-conversion "Topic: currency-conversion") [currency-exchange](https://github.com/topics/currency-exchange "Topic: currency-exchange") [currency-api](https://github.com/topics/currency-api "Topic: currency-api") [currency-rates](https://github.com/topics/currency-rates "Topic: currency-rates") [forex-api](https://github.com/topics/forex-api "Topic: forex-api")
+
+### Resources
+
+[Readme](https://github.com/fawazahmed0/exchange-api#readme-ov-file)
+
+### License
+
+[CC0-1.0 license](https://github.com/fawazahmed0/exchange-api#CC0-1.0-1-ov-file)
+
+[Activity](https://github.com/fawazahmed0/exchange-api/activity)
+
+### Stars
+
+[**908** stars](https://github.com/fawazahmed0/exchange-api/stargazers)
+
+### Watchers
+
+[**14** watching](https://github.com/fawazahmed0/exchange-api/watchers)
+
+### Forks
+
+[**58** forks](https://github.com/fawazahmed0/exchange-api/forks)
+
+[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Ffawazahmed0%2Fexchange-api&report=fawazahmed0+%28user%29)
+
+[Releases](https://github.com/fawazahmed0/exchange-api/releases)
+----------------------------------------------------------------
+
+No releases published
+
+[Packages 0](https://github.com/users/fawazahmed0/packages?repo_name=exchange-api)
+----------------------------------------------------------------------------------
+
+No packages published  
+
+Languages
+---------
+
+*   [Python 93.3%](https://github.com/fawazahmed0/exchange-api/search?l=python)
+*   [JavaScript 6.7%](https://github.com/fawazahmed0/exchange-api/search?l=javascript)
+
+Footer
+------
+
+[](https://github.com/ "GitHub")© 2025 GitHub, Inc.
+
+### Footer navigation
+
+*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+*   [Security](https://github.com/security)
+*   [Status](https://www.githubstatus.com/)
+*   [Docs](https://docs.github.com/)
+*   [Contact](https://support.github.com/?tags=dotcom-footer)
+*   Manage cookies
+*   Do not share my personal information
+
+You can’t perform that action at this time.

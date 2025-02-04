@@ -1,0 +1,1 @@
+using the test api details approach, please create a cocktail maker assistant agent, that based on the users inputs provides recommendations on recipes for cocktails, the agent should ask the user for the ingredients they have and specify any special way in which they need to phrased if necessary.
